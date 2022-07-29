@@ -1,0 +1,7 @@
+github.com/bradfitz/gomemcache v0.0.0-20180710155616-bc664df96737/go.mod h1:PmM6Mmwb0LSuEubjR8N7PtNe1KxZLtOUHtbeikc5h60=
+github.com/bradfitz/gomemcache v0.0.0-20220106215444-fb4bf637b56d h1:pVrfxiGfwelyab6n21ZBkbkmbevaf+WvMIiR7sr97hw=
+github.com/bradfitz/gomemcache v0.0.0-20220106215444-fb4bf637b56d/go.mod h1:H0wQNHz2YrLsuXOZozoeDmnHXkNCRmMW0gwFWDfEZDA=
+github.com/dakimura/memctag v0.0.0-20190326080338-7feb12937893 h1:tGiyPab1P/atEGxNLaYSzTlLZx0LbHWZV2IPZLPbT6s=
+github.com/dakimura/memctag v0.0.0-20190326080338-7feb12937893/go.mod h1:Z1Jh0CeY7k4bdzIE5RJgsacT1lTkIQGS4uhsqusOb+Y=
+github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
+github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
